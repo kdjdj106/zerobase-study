@@ -9,6 +9,7 @@
 <body>
 <%
 	out.println(java.time.LocalDateTime.now());
+	out.println("hello my name is DJ");
 %>
 </body>
 </html>
